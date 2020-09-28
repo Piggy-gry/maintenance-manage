@@ -1,6 +1,6 @@
-# vue-study
+# maintenance manage system
 
-> A Vue.js project
+> maintenance manage system
 
 ## Build Setup
 
